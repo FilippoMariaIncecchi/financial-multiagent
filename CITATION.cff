@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: >-
+  A Multi-Agent LLM Architecture for Financial Question Answering
+  with a Local Model
+message: If you use this software, please cite it as below.
+type: software
+authors:
+  - given-names: Filippo Maria
+    family-names: Incecchi
+    affiliation: Università degli Studi di Brescia
+version: 1.0.0
+date-released: "2026-__-__"
+license: MIT
+repository-code: "https://github.com/FilippoMariaIncecchi/financial-multiagent"
+abstract: >-
+  A LangGraph multi-agent system that answers financial questions from SEC 10-K
+  filings, live market data and macroeconomic series using a four-billion-parameter
+  open-weight model executed locally, together with the evaluation harness and the
+  complete raw results reported in the thesis of the same title.
+keywords:
+  - retrieval-augmented generation
+  - multi-agent systems
+  - large language models
+  - financial question answering
+  - RAGAS
+  - local inference

@@ -1,0 +1,1 @@
+['A', 'AAPL', 'ABNB', 'ACI', 'ADBE', 'AMD', 'AMZN', 'APPS', 'BAC', 'BE', 'CRM', 'GOOGL', 'GS', 'HAS', 'INTC', 'IOT', 'JPM', 'KEY', 'LAKE', 'META', 'MS', 'MSFT', 'MU', 'NET', 'NVDA', 'OPEN', 'PLTR', 'QCOM', 'RUN', 'S', 'SHOP', 'T', 'TSLA', 'UBER', 'VSTS', 'YOU']

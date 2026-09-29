@@ -1,0 +1,29 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# data downloaded or derived at run time
+data/
+vectorstore/
+chroma_db/
+
+# thesis drafts and office files
+*.docx
+*.pptx
+*.numbers
+backup/
+
+# os
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+.ipynb_checkpoints/

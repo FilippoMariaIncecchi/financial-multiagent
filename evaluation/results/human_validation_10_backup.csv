@@ -1,0 +1,11 @@
+id,category,question,claims_total,claims_supported,human_answer_relevancy,notes
+rag_14,rag,What supply-chain risks does Nvidia highlight?,3,3,0.5,
+market_20,market,What is Palantir's current market cap?,1,1,1,
+macro_15,macro,Summarize recent trends in US inflation and interest rates.,2,2,1,
+rm_06,multi_rag_market,Is Meta's Reality Labs investment reflected in its share price?,1,1,1,
+rmac_10,multi_rag_macro,How might a slowing economy affect Intel's business?,5,4,0,Unemployment
+mm_01,multi_market_macro,Is Nvidia's current P/E ratio justified given today's interest rates?,1,1,0,
+all_06,multi_all,"Analyze Meta's business, market cap, and the macro environment.",6,6,1,
+rag_02,rag,What are the main risk factors Tesla discloses in its filings?,3,3,1,
+market_02,market,What was Tesla's 1-year stock return?,1,1,1,
+macro_02,macro,What is the latest US GDP figure?,1,1,1,
