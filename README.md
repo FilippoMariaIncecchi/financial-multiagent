@@ -1,4 +1,4 @@
-# A Multi-Agent LLM Architecture for Financial Question Answering with a Local Model
+# A Multi-Agent LLM Architecture for Financial Question Answering Based on a Local Model
 
 Code and evaluation data for the master's thesis *A Multi-Agent LLM Architecture for
 Financial Question Answering Based on a Local Model* — Filippo Maria Incecchi,

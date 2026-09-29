@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: >-
-  A Multi-Agent LLM Architecture for Financial Question Answering
-  with a Local Model
+  A Multi-Agent LLM Architecture for Financial Question Answering Based on a Local Model
+  Based on a Local Model
 message: If you use this software, please cite it as below.
 type: software
 authors:
